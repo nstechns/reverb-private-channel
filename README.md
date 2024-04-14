@@ -1,4 +1,4 @@
-## Laravel Reverb (Public Channel with HTML, CSS, jQuery)
+## Laravel Reverb (Private Channel with HTML, CSS, jQuery)
 ### Installation
 #### To install and run the project, follow these steps:
 
