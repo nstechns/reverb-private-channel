@@ -3,6 +3,7 @@
 #### To install and run the project, follow these steps:
 
 ```bash
+cp .env.example .env
 composer install
 npm install
 npm run build
