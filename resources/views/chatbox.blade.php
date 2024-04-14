@@ -51,7 +51,7 @@
             });
         });
 
-        window.Echo.channel('chats')
+        window.Echo.private('chats')
             .listen('MessageSent', (e) => {
                 console.log(e);
                 $('#messages').append(`<div><span class="text-indigo-600">${e.name}:</span> <span class="dark:text-white">${e.text}</span></div>`);

@@ -61,6 +61,5 @@
                 </div>
             </div>
         </div>
-        @include("chatbox")
     </body>
 </html>
